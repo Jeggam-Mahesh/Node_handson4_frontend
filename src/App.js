@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import "./components/styles.css"
 import RouteComp from './components/RoutesComp';
